@@ -1,0 +1,109 @@
+{
+    "New Ringtones":[
+        {
+            "name":"Pirates BGM - Hollywood BGM",
+            "ringtone": "Assets/one.mp3"
+          },{
+            "name":"Bgm Idd Bgm Idd",
+             "ringtone":"Assets/two.mp3"
+          },
+          {
+            "name":"Kgf Bgm",
+            "ringtone":"Assets/three.mp3"
+          },
+          {
+            "name":"Kgf-Bgm ",
+            "ringtone":"Assets/four.mp3"
+          },
+          {
+            "name":"Mangalam Bgm ! 3 Movie BGM",
+            "ringtone":"Assets/five.mp3"
+          },
+          {
+            "name":"Ilayaraja BGM - Love BGM",
+            "ringtone":"Assets/six.mp3"
+          },
+          {
+            "name":"Naruto - BGM",
+            "ringtone":"Assets/seven.mp3"
+          },
+          {
+            "name":"Kalki ! Revenge ! Bgm ! Theme ! Instrumental ! Mass",
+            "ringtone":"Assets/eight.mp3"
+          },
+          {
+            "name":"Kgf-Bgm ",
+            "ringtone":"Assets/nine.mp3"
+          },
+          {
+            "name":"COFFIN - BGM",
+            "ringtone":"Assets/ten.mp3"
+          }, {
+            "name":"Telugu BGM",
+            "ringtone":"Assets/eleven.mp3"
+          }, {
+            "name":"Kattabomman Bgm ! Bgm",
+            "ringtone":"Assets/twelve.mp3"
+          },
+          {
+            "name":"Nuke - BGM",
+            "ringtone":"Assets/thirteen.mp3"
+          }, {
+            "name":"Kgf Attitude bgm",
+            "ringtone":"Assets/fourteen.mp3"
+          }, {
+            "name":"Kalki Revenge BGM",
+            "ringtone":"Assets/fifteen.mp3"
+          }
+        
+     ],
+
+     "Trending Ringtones":
+     [
+     {   
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
+    },
+     {  
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
+    }
+     ],
+    "Popular Ringtones":[
+     { 
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
+    },
+     {
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
+    },
+     {  
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
+    },
+     {  
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
+    }
+     ],
+     "God Ringtones":[
+     {   
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
+    },
+     {
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
+    },
+     {  
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
+    },
+     {  
+    "name":"KGF Song",
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
+    }
+     ]
+     
+}
