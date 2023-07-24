@@ -2,58 +2,58 @@
     "New Ringtones":[
         {
             "name":"Pirates BGM - Hollywood BGM",
-            "ringtone": "Assets/one.mp3"
+            "ringtone": "https://github.com/Bhankumari/JsonData/raw/main/one.mp3"
           },{
             "name":"Bgm Idd Bgm Idd",
-             "ringtone":"Assets/two.mp3"
+             "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/two.mp3"
           },
           {
             "name":"Kgf Bgm",
-            "ringtone":"Assets/three.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/three.mp3"
           },
           {
             "name":"Kgf-Bgm ",
-            "ringtone":"Assets/four.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/four.mp3"
           },
           {
             "name":"Mangalam Bgm ! 3 Movie BGM",
-            "ringtone":"Assets/five.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/five.mp3"
           },
           {
             "name":"Ilayaraja BGM - Love BGM",
-            "ringtone":"Assets/six.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/six.mp33"
           },
           {
             "name":"Naruto - BGM",
-            "ringtone":"Assets/seven.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/seven.mp3"
           },
           {
             "name":"Kalki ! Revenge ! Bgm ! Theme ! Instrumental ! Mass",
-            "ringtone":"Assets/eight.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/eight.mp3"
           },
           {
             "name":"Kgf-Bgm ",
-            "ringtone":"Assets/nine.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/nine.mp3"
           },
           {
             "name":"COFFIN - BGM",
-            "ringtone":"Assets/ten.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/ten.mp33"
           }, {
             "name":"Telugu BGM",
-            "ringtone":"Assets/eleven.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/eleven.mp33"
           }, {
             "name":"Kattabomman Bgm ! Bgm",
-            "ringtone":"Assets/twelve.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/twelve.mp3"
           },
           {
             "name":"Nuke - BGM",
-            "ringtone":"Assets/thirteen.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/thirteen.mp3"
           }, {
             "name":"Kgf Attitude bgm",
-            "ringtone":"Assets/fourteen.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/fourteen.mp3"
           }, {
             "name":"Kalki Revenge BGM",
-            "ringtone":"Assets/fifteen.mp3"
+            "ringtone":"https://github.com/Bhankumari/JsonData/raw/main/fifteen.mp3"
           }
         
      ],
