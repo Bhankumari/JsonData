@@ -188,23 +188,5 @@
             "name": "Telugu BGM",
             "ringtone": "https://github.com/Bhankumari/JsonData/raw/main/eleven.mp3"
         }
-    ],
-    "God Ringtones": [
-        {
-            "name": "KGF Song",
-            "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
-        },
-        {
-            "name": "KGF Song",
-            "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
-        },
-        {
-            "name": "KGF Song",
-            "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
-        },
-        {
-            "name": "KGF Song",
-            "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
-        }
     ]
 }
