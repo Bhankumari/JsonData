@@ -1,6 +1,12 @@
 {
     "New Ringtones": [
-        {
+
+
+
+         {
+            "name": "Sooraj Hi Chhaon Banke Ringtone Salar .mp3",
+            "ringtone": "https://github.com/Bhankumari/JsonData/raw/main/Sooraj Hi Chhaon Banke Ringtone Salaar Prabhas Prithviraj Prashanth Neel Ravi B BGM PR Tone.mp3"
+        },        {
             "name": "Salaar - Teaser - Prabhas ! BGM.mp3",
             "ringtone": "https://github.com/Bhankumari/JsonData/raw/main/Salaar - Teaser - Prabhas ! BGM.mp3"
         },
